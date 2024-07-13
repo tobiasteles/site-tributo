@@ -15,6 +15,12 @@ main {
   padding: 10px;
 }
 
+#tribute-info {
+display: flex;
+align-items: center;
+justify-content: center;
+text-align: center;
+}
 img {
     display: block;
     max-width: 100%;
